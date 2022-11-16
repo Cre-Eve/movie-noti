@@ -16,7 +16,7 @@
 
 2. python -m venv movie_noti
 
-        가상환경 moie_noti 폴더 생성
+        가상환경 movie_noti 폴더 생성
 
 3. movie_noti 폴더 내 /Sctips/activat.bat 실행하여 가상환경 실행
 
