@@ -26,15 +26,19 @@
 
 5. movie_noti 폴더에 movie_crawler.py 파일 생성
 
-6. aws 인스턴스 시작 
+6. 텔레그렘 봇 사용
 
-7. 우분투 업데이트
+        pip install python-telegram-bot
 
-8. apschedular 설치
+7. aws 인스턴스 시작 
 
-9. 깃 또는 파일질라를 이용해 서버에 파일 업로드
+8. 우분투 업데이트
 
-10. nohup python3 movie_crawler.py를 우분투에서 실행
+9. apschedular 설치
+
+10. 깃 또는 파일질라를 이용해 서버에 파일 업로드
+
+11. nohup python3 movie_crawler.py를 우분투에서 실행
 
         서버 연결이 끊겨도 정삭적으로 백그라운드에서 실행
 
